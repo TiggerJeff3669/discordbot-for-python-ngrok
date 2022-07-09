@@ -11,13 +11,15 @@
 
 ## 套件需求：
  * pyngrok
- *  discord.py
+ * discord.py
  * requests
+ * psutil
 
 ```
 python -m pip install -r requirement.txt
 ```
 ### 運作環境：Python 3.6+
+相容於 Windows 10 、 Ubuntu 22.04
 
 ---
 
